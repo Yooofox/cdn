@@ -1,3 +1,7 @@
+!Title: xxAD
+!Version: 20220917011435
+!Homepage: https://github.com/Yooofox/cdn
+!Total lines: 126280
 ||t7z.cupid.ptqy.gitv.tv
 ||video.market.xiaomi.com
 ||ad.mi.com
